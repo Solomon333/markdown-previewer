@@ -1,4 +1,4 @@
 # markdown-previewer:
 
-- Bootstrap.
-- JavaScript.
+-  JavaScript. - Bootstrap.
+
