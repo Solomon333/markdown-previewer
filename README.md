@@ -1,5 +1,5 @@
 # markdown-previewer
 
 -  JavaScript.
--  Bootstrap
+-  Bootstrap.
 
