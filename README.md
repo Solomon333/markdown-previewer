@@ -1,3 +1,4 @@
 
- markdown-previewer = JavaScript =  bootstrap .
+ markdown-previewer
+ = JavaScript =  bootstrap .
 
